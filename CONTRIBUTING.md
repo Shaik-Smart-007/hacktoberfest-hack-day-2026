@@ -1,4 +1,4 @@
-# Project Name
+# StudyMate
 
 ## Team / attendee
 
